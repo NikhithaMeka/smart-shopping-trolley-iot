@@ -2,12 +2,6 @@
 
 An Industry-Oriented Mini Project for B.Tech (AI & ML), JNTUH
 
-## 👩‍💻 Team Members
-- M. Nikhitha (22VE1A66A8)
-- Syed Rudaar (22VE1A66C3)
-- E. Sathvik (22VE1A6683)
-- N. Rohan (22VE1A66A7)
-
 ## 🧠 Abstract
 This project reduces queue times in malls by automating billing. Using RFID, Arduino, and Bluetooth, scanned products update the bill in real-time. A mobile app receives the total via Bluetooth for checkout.
 
